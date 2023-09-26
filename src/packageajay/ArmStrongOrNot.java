@@ -5,7 +5,7 @@ public class ArmStrongOrNot {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int n = 1543;
+		int n = 1634;
 		int count = 0;
 	     int pow = 1;
 		int sum= 0;
