@@ -10,7 +10,7 @@ public class EncapMain extends Encap{
 		
 		System.out.println(e.getval2());
 		
-		e.setval("java testing");
+		e.setval("ajay java");
 		System.out.println(e.getval());
 	}
 

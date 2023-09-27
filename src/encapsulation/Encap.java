@@ -2,7 +2,7 @@ package encapsulation;
 
 public class Encap {
 
-	private String val = "Testing";
+	private String val = "ajay";
 	private int val2 = 20;
 	
 	//getters
@@ -21,3 +21,6 @@ public class Encap {
 	}
 	
 }
+
+
+ 
