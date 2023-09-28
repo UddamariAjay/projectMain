@@ -13,13 +13,20 @@ public class static1 {
 		
 	}
 	
-	public void add() {
+	/*public void add() {
 		
 		this.a=this.a+1;
 		this.a=b+2;
 		System.out.println(a);
-	}
+	}*/
 	
+   public void adds() {
+		
+		this.a=this.a+1;
+		this.a=this.a+2;
+		System.out.println(a);
+	}
+
 	public void mul() {
 		
 		this.a=this.a+1;
